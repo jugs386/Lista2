@@ -15,8 +15,6 @@
 </html>
 
 <?php
-
-
 if(isset($_POST['btnCalcular'])){
     for($i = 0;$i<=10;$i++){
         if($_POST['n1'] == 5) {
